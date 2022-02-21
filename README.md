@@ -12,10 +12,11 @@ The MNIST database of handwritten digits, available from this page, has a traini
 It is a good database for people who want to try learning techniques and pattern recognition methods on real-world data while spending minimal efforts on preprocessing and formatting.
 
 [Download Link](http://yann.lecun.com/exdb/mnist/)
+
 ALTERNATIVE: The dataset is also provided by Tensorflow library. Use the import statement
-'''
+"""
 from tensorflow.keras.datasets import mnist
-'''
+"""
 
 #Flowers Dataset
 This dataset contains 4242 images of flowers based on the data from flickr, google images, yandex images.
